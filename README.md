@@ -65,7 +65,3 @@ Available methods include 'GET,' 'POST,' 'HEAD,' 'HTTP-SYN,' 'HTTP-SYN-TPC,' 'OV
 ```
 
 I can't wait for you to try out this program and share your feedback. I invite you to contribute and be a part of this exciting project! 💪
-
-```
-
-```
